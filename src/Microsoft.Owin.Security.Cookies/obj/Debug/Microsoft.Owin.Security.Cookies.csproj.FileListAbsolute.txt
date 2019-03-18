@@ -18,3 +18,13 @@ C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.Cookies.pdb
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.Cookies.xml
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.Cookies.dll.CodeAnalysisLog.xml
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.Cookies.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Cookies.dll
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Cookies.pdb
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Cookies.xml
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Cookies.dll.CodeAnalysisLog.xml
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Cookies.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Cookies\obj\Debug\Microsoft.Owin.Security.Cookies.csprojAssemblyReference.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Cookies\obj\Debug\Microsoft.Owin.Security.Cookies.csproj.CoreCompileInputs.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Cookies\obj\Debug\Microsoft.Owin.Security.Cookies.csproj.CopyComplete
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Cookies\obj\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Cookies\obj\Debug\Microsoft.Owin.Security.Cookies.pdb

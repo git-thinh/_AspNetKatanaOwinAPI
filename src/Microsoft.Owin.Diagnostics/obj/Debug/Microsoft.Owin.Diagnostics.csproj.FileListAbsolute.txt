@@ -17,3 +17,14 @@ C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Diagnostics.dll
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Diagnostics.pdb
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Diagnostics.dll.CodeAnalysisLog.xml
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Diagnostics.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Diagnostics.dll
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Diagnostics.pdb
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Diagnostics.dll.CodeAnalysisLog.xml
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Diagnostics.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Diagnostics\obj\Debug\Microsoft.Owin.Diagnostics.csprojAssemblyReference.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Diagnostics\obj\Debug\Microsoft.Owin.Diagnostics.Resources.resources
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Diagnostics\obj\Debug\Microsoft.Owin.Diagnostics.csproj.GenerateResource.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Diagnostics\obj\Debug\Microsoft.Owin.Diagnostics.csproj.CoreCompileInputs.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Diagnostics\obj\Debug\Microsoft.Owin.Diagnostics.csproj.CopyComplete
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Diagnostics\obj\Debug\Microsoft.Owin.Diagnostics.dll
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Diagnostics\obj\Debug\Microsoft.Owin.Diagnostics.pdb

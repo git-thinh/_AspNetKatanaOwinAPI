@@ -19,3 +19,16 @@ C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Host.SystemWeb.pdb
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Host.SystemWeb.xml
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Host.SystemWeb.dll.CodeAnalysisLog.xml
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Host.SystemWeb.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Host.SystemWeb.dll
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Host.SystemWeb.pdb
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Host.SystemWeb.xml
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Host.SystemWeb.dll.CodeAnalysisLog.xml
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Host.SystemWeb.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Host.SystemWeb\obj\Debug\Microsoft.Owin.Host.SystemWeb.csprojAssemblyReference.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Host.SystemWeb\obj\Debug\Microsoft.Owin.Host.SystemWeb.App_Packages.Owin.Loader.LoaderResources.resources
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Host.SystemWeb\obj\Debug\Microsoft.Owin.Host.SystemWeb.Resources.resources
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Host.SystemWeb\obj\Debug\Microsoft.Owin.Host.SystemWeb.csproj.GenerateResource.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Host.SystemWeb\obj\Debug\Microsoft.Owin.Host.SystemWeb.csproj.CoreCompileInputs.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Host.SystemWeb\obj\Debug\Microsoft.Owin.Host.SystemWeb.csproj.CopyComplete
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Host.SystemWeb\obj\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Host.SystemWeb\obj\Debug\Microsoft.Owin.Host.SystemWeb.pdb

@@ -1,0 +1,2 @@
+C:\_____\_AspNetKatanaOwinAPI\tests\FunctionalTests\obj\Debug\FunctionalTests.csprojAssemblyReference.cache
+C:\_____\_AspNetKatanaOwinAPI\tests\FunctionalTests\obj\Debug\FunctionalTests.csproj.CoreCompileInputs.cache

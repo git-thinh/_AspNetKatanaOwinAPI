@@ -15,3 +15,12 @@ C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Cors.dll
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Cors.pdb
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Cors.dll.CodeAnalysisLog.xml
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Cors.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Cors.dll
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Cors.pdb
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Cors.dll.CodeAnalysisLog.xml
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Cors.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Cors\obj\Debug\Microsoft.Owin.Cors.csproj.CoreCompileInputs.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Cors\obj\Debug\Microsoft.Owin.Cors.csproj.CopyComplete
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Cors\obj\Debug\Microsoft.Owin.Cors.dll
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Cors\obj\Debug\Microsoft.Owin.Cors.pdb
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Cors\obj\Debug\Microsoft.Owin.Cors.csprojAssemblyReference.cache

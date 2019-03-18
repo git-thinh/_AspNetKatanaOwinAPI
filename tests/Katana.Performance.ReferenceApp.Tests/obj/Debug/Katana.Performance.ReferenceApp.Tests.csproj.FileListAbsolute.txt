@@ -1,0 +1,2 @@
+C:\_____\_AspNetKatanaOwinAPI\tests\Katana.Performance.ReferenceApp.Tests\obj\Debug\Katana.Performance.ReferenceApp.Tests.csprojAssemblyReference.cache
+C:\_____\_AspNetKatanaOwinAPI\tests\Katana.Performance.ReferenceApp.Tests\obj\Debug\Katana.Performance.ReferenceApp.Tests.csproj.CoreCompileInputs.cache

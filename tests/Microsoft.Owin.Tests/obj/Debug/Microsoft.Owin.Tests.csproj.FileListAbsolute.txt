@@ -1,0 +1,15 @@
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Tests\bin\Debug\Microsoft.Owin.Tests.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Tests\bin\Debug\Microsoft.Owin.Tests.pdb
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Tests\bin\Debug\Microsoft.Owin.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Tests\bin\Debug\Owin.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Tests\bin\Debug\Shouldly.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Tests\bin\Debug\xunit.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Tests\bin\Debug\xunit.extensions.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Tests\bin\Debug\Microsoft.Owin.pdb
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Tests\bin\Debug\Shouldly.pdb
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Tests\bin\Debug\xunit.xml
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Tests\bin\Debug\xunit.extensions.xml
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Tests\obj\Debug\Microsoft.Owin.Tests.csproj.CoreCompileInputs.cache
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Tests\obj\Debug\Microsoft.Owin.Tests.csproj.CopyComplete
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Tests\obj\Debug\Microsoft.Owin.Tests.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Tests\obj\Debug\Microsoft.Owin.Tests.pdb

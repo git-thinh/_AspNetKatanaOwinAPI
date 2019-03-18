@@ -5,3 +5,10 @@ C:\_____\AspNetKatana-dev\src\Tools\CertificateInstaller\CertInstaller\obj\Debug
 C:\_____\AspNetKatana-dev\src\Tools\CertificateInstaller\CertInstaller\obj\Debug\CertInstaller.csproj.CoreCompileInputs.cache
 C:\_____\AspNetKatana-dev\src\Tools\CertificateInstaller\CertInstaller\obj\Debug\CertInstaller.exe
 C:\_____\AspNetKatana-dev\src\Tools\CertificateInstaller\CertInstaller\obj\Debug\CertInstaller.pdb
+C:\_____\_AspNetKatanaOwinAPI\src\Tools\CertificateInstaller\CertInstaller\bin\Debug\CertInstaller.exe.config
+C:\_____\_AspNetKatanaOwinAPI\src\Tools\CertificateInstaller\CertInstaller\bin\Debug\CertInstaller.exe
+C:\_____\_AspNetKatanaOwinAPI\src\Tools\CertificateInstaller\CertInstaller\bin\Debug\CertInstaller.pdb
+C:\_____\_AspNetKatanaOwinAPI\src\Tools\CertificateInstaller\CertInstaller\obj\Debug\CertInstaller.csprojAssemblyReference.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Tools\CertificateInstaller\CertInstaller\obj\Debug\CertInstaller.csproj.CoreCompileInputs.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Tools\CertificateInstaller\CertInstaller\obj\Debug\CertInstaller.exe
+C:\_____\_AspNetKatanaOwinAPI\src\Tools\CertificateInstaller\CertInstaller\obj\Debug\CertInstaller.pdb

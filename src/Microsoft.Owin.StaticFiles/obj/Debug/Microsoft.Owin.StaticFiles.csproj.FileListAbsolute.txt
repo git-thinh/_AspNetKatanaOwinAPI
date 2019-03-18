@@ -18,3 +18,14 @@ C:\_____\AspNetKatana-dev\output\Microsoft.Owin.StaticFiles.dll
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.StaticFiles.pdb
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.StaticFiles.dll.CodeAnalysisLog.xml
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.StaticFiles.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.StaticFiles.dll
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.StaticFiles.pdb
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.StaticFiles.dll.CodeAnalysisLog.xml
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.StaticFiles.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.StaticFiles\obj\Debug\Microsoft.Owin.StaticFiles.csprojAssemblyReference.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.StaticFiles\obj\Debug\Microsoft.Owin.StaticFiles.Resources.resources
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.StaticFiles\obj\Debug\Microsoft.Owin.StaticFiles.csproj.GenerateResource.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.StaticFiles\obj\Debug\Microsoft.Owin.StaticFiles.csproj.CoreCompileInputs.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.StaticFiles\obj\Debug\Microsoft.Owin.StaticFiles.csproj.CopyComplete
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.StaticFiles\obj\Debug\Microsoft.Owin.StaticFiles.dll
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.StaticFiles\obj\Debug\Microsoft.Owin.StaticFiles.pdb

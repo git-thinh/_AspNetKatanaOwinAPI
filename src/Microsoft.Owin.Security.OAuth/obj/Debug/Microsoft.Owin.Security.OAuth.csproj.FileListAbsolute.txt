@@ -17,3 +17,12 @@ C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.OAuth.dll
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.OAuth.pdb
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.OAuth.dll.CodeAnalysisLog.xml
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.OAuth.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.OAuth.dll
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.OAuth.pdb
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.OAuth.dll.CodeAnalysisLog.xml
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.OAuth.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.OAuth\obj\Debug\Microsoft.Owin.Security.OAuth.csprojAssemblyReference.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.OAuth\obj\Debug\Microsoft.Owin.Security.OAuth.csproj.CoreCompileInputs.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.OAuth\obj\Debug\Microsoft.Owin.Security.OAuth.csproj.CopyComplete
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.OAuth\obj\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.OAuth\obj\Debug\Microsoft.Owin.Security.OAuth.pdb

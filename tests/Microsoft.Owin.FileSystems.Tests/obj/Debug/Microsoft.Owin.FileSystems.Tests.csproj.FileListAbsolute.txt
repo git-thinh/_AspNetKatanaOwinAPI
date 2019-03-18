@@ -1,0 +1,15 @@
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.FileSystems.Tests\bin\Debug\File.txt
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.FileSystems.Tests\bin\Debug\sub\File2.txt
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.FileSystems.Tests\bin\Debug\Microsoft.Owin.FileSystems.Tests.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.FileSystems.Tests\bin\Debug\Microsoft.Owin.FileSystems.Tests.pdb
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.FileSystems.Tests\bin\Debug\Microsoft.Owin.FileSystems.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.FileSystems.Tests\bin\Debug\Shouldly.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.FileSystems.Tests\bin\Debug\xunit.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.FileSystems.Tests\bin\Debug\Microsoft.Owin.FileSystems.pdb
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.FileSystems.Tests\bin\Debug\Shouldly.pdb
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.FileSystems.Tests\bin\Debug\xunit.xml
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.FileSystems.Tests\obj\Debug\Microsoft.Owin.FileSystems.Tests.csprojAssemblyReference.cache
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.FileSystems.Tests\obj\Debug\Microsoft.Owin.FileSystems.Tests.csproj.CoreCompileInputs.cache
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.FileSystems.Tests\obj\Debug\Microsoft.Owin.FileSystems.Tests.csproj.CopyComplete
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.FileSystems.Tests\obj\Debug\Microsoft.Owin.FileSystems.Tests.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.FileSystems.Tests\obj\Debug\Microsoft.Owin.FileSystems.Tests.pdb

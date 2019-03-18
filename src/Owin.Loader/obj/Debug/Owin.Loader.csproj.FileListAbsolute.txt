@@ -12,3 +12,13 @@ C:\_____\AspNetKatana-dev\src\Owin.Loader\obj\Debug\Owin.Loader.pdb
 C:\_____\AspNetKatana-dev\output\Owin.Loader.dll
 C:\_____\AspNetKatana-dev\output\Owin.Loader.pdb
 C:\_____\AspNetKatana-dev\output\Owin.Loader.XML
+C:\_____\_AspNetKatanaOwinAPI\output\Owin.Loader.dll
+C:\_____\_AspNetKatanaOwinAPI\output\Owin.Loader.pdb
+C:\_____\_AspNetKatanaOwinAPI\output\Owin.Loader.XML
+C:\_____\_AspNetKatanaOwinAPI\src\Owin.Loader\obj\Debug\Owin.Loader.csprojAssemblyReference.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Owin.Loader\obj\Debug\Owin.Loader.LoaderResources.resources
+C:\_____\_AspNetKatanaOwinAPI\src\Owin.Loader\obj\Debug\Owin.Loader.csproj.GenerateResource.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Owin.Loader\obj\Debug\Owin.Loader.csproj.CoreCompileInputs.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Owin.Loader\obj\Debug\Owin.Loader.csproj.CopyComplete
+C:\_____\_AspNetKatanaOwinAPI\src\Owin.Loader\obj\Debug\Owin.Loader.dll
+C:\_____\_AspNetKatanaOwinAPI\src\Owin.Loader\obj\Debug\Owin.Loader.pdb

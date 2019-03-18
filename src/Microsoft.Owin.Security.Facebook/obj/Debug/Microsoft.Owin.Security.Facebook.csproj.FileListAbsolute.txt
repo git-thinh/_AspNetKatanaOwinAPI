@@ -19,3 +19,14 @@ C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.Facebook.dll
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.Facebook.pdb
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.Facebook.dll.CodeAnalysisLog.xml
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.Facebook.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Facebook.dll
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Facebook.pdb
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Facebook.dll.CodeAnalysisLog.xml
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Facebook.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Facebook\obj\Debug\Microsoft.Owin.Security.Facebook.Resources.resources
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Facebook\obj\Debug\Microsoft.Owin.Security.Facebook.csproj.GenerateResource.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Facebook\obj\Debug\Microsoft.Owin.Security.Facebook.csproj.CoreCompileInputs.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Facebook\obj\Debug\Microsoft.Owin.Security.Facebook.csproj.CopyComplete
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Facebook\obj\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Facebook\obj\Debug\Microsoft.Owin.Security.Facebook.pdb
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Facebook\obj\Debug\Microsoft.Owin.Security.Facebook.csprojAssemblyReference.cache

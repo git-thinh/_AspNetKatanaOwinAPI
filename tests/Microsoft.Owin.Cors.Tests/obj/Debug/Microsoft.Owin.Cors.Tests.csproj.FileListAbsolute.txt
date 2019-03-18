@@ -1,0 +1,17 @@
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\bin\Debug\Microsoft.Owin.Cors.Tests.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\bin\Debug\Microsoft.Owin.Cors.Tests.pdb
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\bin\Debug\Microsoft.Owin.Cors.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\bin\Debug\Microsoft.Owin.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\bin\Debug\Owin.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\bin\Debug\System.Web.Cors.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\bin\Debug\xunit.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\bin\Debug\xunit.extensions.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\bin\Debug\Microsoft.Owin.Cors.pdb
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\bin\Debug\Microsoft.Owin.pdb
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\bin\Debug\xunit.xml
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\bin\Debug\xunit.extensions.xml
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\obj\Debug\Microsoft.Owin.Cors.Tests.csprojAssemblyReference.cache
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\obj\Debug\Microsoft.Owin.Cors.Tests.csproj.CoreCompileInputs.cache
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\obj\Debug\Microsoft.Owin.Cors.Tests.csproj.CopyComplete
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\obj\Debug\Microsoft.Owin.Cors.Tests.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Cors.Tests\obj\Debug\Microsoft.Owin.Cors.Tests.pdb

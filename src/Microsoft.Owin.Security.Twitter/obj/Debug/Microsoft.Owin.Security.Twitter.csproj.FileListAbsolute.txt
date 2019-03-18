@@ -19,3 +19,13 @@ C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.Twitter.dll
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.Twitter.pdb
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.Twitter.dll.CodeAnalysisLog.xml
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.Twitter.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Twitter.dll
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Twitter.pdb
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Twitter.dll.CodeAnalysisLog.xml
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Twitter.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Twitter\obj\Debug\Microsoft.Owin.Security.Twitter.Resources.resources
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Twitter\obj\Debug\Microsoft.Owin.Security.Twitter.csproj.GenerateResource.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Twitter\obj\Debug\Microsoft.Owin.Security.Twitter.csproj.CoreCompileInputs.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Twitter\obj\Debug\Microsoft.Owin.Security.Twitter.csproj.CopyComplete
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Twitter\obj\Debug\Microsoft.Owin.Security.Twitter.dll
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Twitter\obj\Debug\Microsoft.Owin.Security.Twitter.pdb

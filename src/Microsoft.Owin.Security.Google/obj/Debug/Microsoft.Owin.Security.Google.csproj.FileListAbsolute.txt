@@ -21,3 +21,15 @@ C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.Google.pdb
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.Google.XML
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.Google.dll.CodeAnalysisLog.xml
 C:\_____\AspNetKatana-dev\output\Microsoft.Owin.Security.Google.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Google.dll
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Google.pdb
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Google.XML
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Google.dll.CodeAnalysisLog.xml
+C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.Google.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Google\obj\Debug\Microsoft.Owin.Security.Google.csprojAssemblyReference.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Google\obj\Debug\Microsoft.Owin.Security.Google.Resources.resources
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Google\obj\Debug\Microsoft.Owin.Security.Google.csproj.GenerateResource.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Google\obj\Debug\Microsoft.Owin.Security.Google.csproj.CoreCompileInputs.cache
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Google\obj\Debug\Microsoft.Owin.Security.Google.csproj.CopyComplete
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Google\obj\Debug\Microsoft.Owin.Security.Google.dll
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.Google\obj\Debug\Microsoft.Owin.Security.Google.pdb

@@ -1,0 +1,15 @@
+C:\_____\_AspNetKatanaOwinAPI\tests\Owin.Loader.Tests\bin\Debug\Owin.Loader.Tests.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Owin.Loader.Tests\bin\Debug\Owin.Loader.Tests.pdb
+C:\_____\_AspNetKatanaOwinAPI\tests\Owin.Loader.Tests\bin\Debug\Microsoft.Owin.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Owin.Loader.Tests\bin\Debug\Owin.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Owin.Loader.Tests\bin\Debug\Owin.Loader.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Owin.Loader.Tests\bin\Debug\xunit.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Owin.Loader.Tests\bin\Debug\Microsoft.Owin.pdb
+C:\_____\_AspNetKatanaOwinAPI\tests\Owin.Loader.Tests\bin\Debug\Owin.Loader.pdb
+C:\_____\_AspNetKatanaOwinAPI\tests\Owin.Loader.Tests\bin\Debug\Owin.Loader.xml
+C:\_____\_AspNetKatanaOwinAPI\tests\Owin.Loader.Tests\bin\Debug\xunit.xml
+C:\_____\_AspNetKatanaOwinAPI\tests\Owin.Loader.Tests\obj\Debug\Owin.Loader.Tests.csprojAssemblyReference.cache
+C:\_____\_AspNetKatanaOwinAPI\tests\Owin.Loader.Tests\obj\Debug\Owin.Loader.Tests.csproj.CoreCompileInputs.cache
+C:\_____\_AspNetKatanaOwinAPI\tests\Owin.Loader.Tests\obj\Debug\Owin.Loader.Tests.csproj.CopyComplete
+C:\_____\_AspNetKatanaOwinAPI\tests\Owin.Loader.Tests\obj\Debug\Owin.Loader.Tests.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Owin.Loader.Tests\obj\Debug\Owin.Loader.Tests.pdb

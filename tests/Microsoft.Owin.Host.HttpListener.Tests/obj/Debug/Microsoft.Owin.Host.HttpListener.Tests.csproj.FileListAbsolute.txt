@@ -1,0 +1,15 @@
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Host.HttpListener.Tests\bin\Debug\Microsoft.Owin.Host.HttpListener.Tests.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Host.HttpListener.Tests\bin\Debug\Microsoft.Owin.Host.HttpListener.Tests.pdb
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Host.HttpListener.Tests\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Host.HttpListener.Tests\bin\Debug\Owin.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Host.HttpListener.Tests\bin\Debug\xunit.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Host.HttpListener.Tests\bin\Debug\xunit.extensions.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Host.HttpListener.Tests\bin\Debug\Microsoft.Owin.Host.HttpListener.pdb
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Host.HttpListener.Tests\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Host.HttpListener.Tests\bin\Debug\xunit.xml
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Host.HttpListener.Tests\bin\Debug\xunit.extensions.xml
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Host.HttpListener.Tests\obj\Debug\Microsoft.Owin.Host.HttpListener.Tests.csprojAssemblyReference.cache
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Host.HttpListener.Tests\obj\Debug\Microsoft.Owin.Host.HttpListener.Tests.csproj.CoreCompileInputs.cache
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Host.HttpListener.Tests\obj\Debug\Microsoft.Owin.Host.HttpListener.Tests.csproj.CopyComplete
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Host.HttpListener.Tests\obj\Debug\Microsoft.Owin.Host.HttpListener.Tests.dll
+C:\_____\_AspNetKatanaOwinAPI\tests\Microsoft.Owin.Host.HttpListener.Tests\obj\Debug\Microsoft.Owin.Host.HttpListener.Tests.pdb
