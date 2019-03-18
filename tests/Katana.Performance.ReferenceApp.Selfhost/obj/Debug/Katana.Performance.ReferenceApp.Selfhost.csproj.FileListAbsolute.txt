@@ -1,0 +1,2 @@
+C:\_____\AspNetKatana-dev\tests\Katana.Performance.ReferenceApp.Selfhost\obj\Debug\Katana.Performance.ReferenceApp.Selfhost.csprojAssemblyReference.cache
+C:\_____\AspNetKatana-dev\tests\Katana.Performance.ReferenceApp.Selfhost\obj\Debug\Katana.Performance.ReferenceApp.Selfhost.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\_____\AspNetKatana-dev\tests\Katana.Performance.ReferenceApp.Client\bin\Debug\Katana.Performance.ReferenceApp.Client.exe.config
+C:\_____\AspNetKatana-dev\tests\Katana.Performance.ReferenceApp.Client\bin\Debug\Katana.Performance.ReferenceApp.Client.exe
+C:\_____\AspNetKatana-dev\tests\Katana.Performance.ReferenceApp.Client\bin\Debug\Katana.Performance.ReferenceApp.Client.pdb
+C:\_____\AspNetKatana-dev\tests\Katana.Performance.ReferenceApp.Client\obj\Debug\Katana.Performance.ReferenceApp.Client.csprojAssemblyReference.cache
+C:\_____\AspNetKatana-dev\tests\Katana.Performance.ReferenceApp.Client\obj\Debug\Katana.Performance.ReferenceApp.Client.csproj.CoreCompileInputs.cache
+C:\_____\AspNetKatana-dev\tests\Katana.Performance.ReferenceApp.Client\obj\Debug\Katana.Performance.ReferenceApp.Client.exe
+C:\_____\AspNetKatana-dev\tests\Katana.Performance.ReferenceApp.Client\obj\Debug\Katana.Performance.ReferenceApp.Client.pdb

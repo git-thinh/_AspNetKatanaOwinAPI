@@ -1,0 +1,7 @@
+C:\_____\AspNetKatana-dev\src\Tools\CertificateInstaller\CertInstaller\bin\Debug\CertInstaller.exe.config
+C:\_____\AspNetKatana-dev\src\Tools\CertificateInstaller\CertInstaller\bin\Debug\CertInstaller.exe
+C:\_____\AspNetKatana-dev\src\Tools\CertificateInstaller\CertInstaller\bin\Debug\CertInstaller.pdb
+C:\_____\AspNetKatana-dev\src\Tools\CertificateInstaller\CertInstaller\obj\Debug\CertInstaller.csprojAssemblyReference.cache
+C:\_____\AspNetKatana-dev\src\Tools\CertificateInstaller\CertInstaller\obj\Debug\CertInstaller.csproj.CoreCompileInputs.cache
+C:\_____\AspNetKatana-dev\src\Tools\CertificateInstaller\CertInstaller\obj\Debug\CertInstaller.exe
+C:\_____\AspNetKatana-dev\src\Tools\CertificateInstaller\CertInstaller\obj\Debug\CertInstaller.pdb

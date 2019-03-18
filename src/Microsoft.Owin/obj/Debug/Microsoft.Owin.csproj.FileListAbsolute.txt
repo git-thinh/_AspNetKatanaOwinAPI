@@ -1,0 +1,16 @@
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin\obj\Debug\Microsoft.Owin.csprojAssemblyReference.cache
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin\obj\Debug\Microsoft.Owin.Resources.resources
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin\obj\Debug\Microsoft.Owin.csproj.GenerateResource.cache
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin\obj\Debug\Microsoft.Owin.csproj.CoreCompileInputs.cache
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin\bin\Debug\Microsoft.Owin.dll
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin\bin\Debug\Microsoft.Owin.pdb
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin\bin\Debug\Microsoft.Owin.dll.CodeAnalysisLog.xml
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin\bin\Debug\Microsoft.Owin.dll.lastcodeanalysissucceeded
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin\bin\Debug\Owin.dll
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin\obj\Debug\Microsoft.Owin.csproj.CopyComplete
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin\obj\Debug\Microsoft.Owin.dll
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin\obj\Debug\Microsoft.Owin.pdb
+C:\_____\AspNetKatana-dev\output\Microsoft.Owin.dll
+C:\_____\AspNetKatana-dev\output\Microsoft.Owin.pdb
+C:\_____\AspNetKatana-dev\output\Microsoft.Owin.dll.CodeAnalysisLog.xml
+C:\_____\AspNetKatana-dev\output\Microsoft.Owin.dll.lastcodeanalysissucceeded

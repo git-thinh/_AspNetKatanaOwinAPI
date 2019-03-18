@@ -1,0 +1,2 @@
+C:\_____\AspNetKatana-dev\tests\Katana.Sandbox.WebServer\obj\Debug\Katana.Sandbox.WebServer.csprojAssemblyReference.cache
+C:\_____\AspNetKatana-dev\tests\Katana.Sandbox.WebServer\obj\Debug\Katana.Sandbox.WebServer.csproj.CoreCompileInputs.cache

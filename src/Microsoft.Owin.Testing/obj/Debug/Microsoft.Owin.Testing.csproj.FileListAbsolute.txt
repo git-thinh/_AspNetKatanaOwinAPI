@@ -1,0 +1,4 @@
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin.Testing\obj\Debug\Microsoft.Owin.Testing.csprojAssemblyReference.cache
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin.Testing\obj\Debug\Microsoft.Owin.Testing.Resources.resources
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin.Testing\obj\Debug\Microsoft.Owin.Testing.csproj.GenerateResource.cache
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin.Testing\obj\Debug\Microsoft.Owin.Testing.csproj.CoreCompileInputs.cache

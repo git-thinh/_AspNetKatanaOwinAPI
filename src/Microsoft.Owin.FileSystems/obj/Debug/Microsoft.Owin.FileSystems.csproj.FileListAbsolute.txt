@@ -1,0 +1,12 @@
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin.FileSystems\bin\Debug\Microsoft.Owin.FileSystems.dll
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin.FileSystems\bin\Debug\Microsoft.Owin.FileSystems.pdb
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin.FileSystems\bin\Debug\Microsoft.Owin.FileSystems.dll.CodeAnalysisLog.xml
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin.FileSystems\bin\Debug\Microsoft.Owin.FileSystems.dll.lastcodeanalysissucceeded
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin.FileSystems\obj\Debug\Microsoft.Owin.FileSystems.csprojAssemblyReference.cache
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin.FileSystems\obj\Debug\Microsoft.Owin.FileSystems.csproj.CoreCompileInputs.cache
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin.FileSystems\obj\Debug\Microsoft.Owin.FileSystems.dll
+C:\_____\AspNetKatana-dev\src\Microsoft.Owin.FileSystems\obj\Debug\Microsoft.Owin.FileSystems.pdb
+C:\_____\AspNetKatana-dev\output\Microsoft.Owin.FileSystems.dll
+C:\_____\AspNetKatana-dev\output\Microsoft.Owin.FileSystems.pdb
+C:\_____\AspNetKatana-dev\output\Microsoft.Owin.FileSystems.dll.CodeAnalysisLog.xml
+C:\_____\AspNetKatana-dev\output\Microsoft.Owin.FileSystems.dll.lastcodeanalysissucceeded
