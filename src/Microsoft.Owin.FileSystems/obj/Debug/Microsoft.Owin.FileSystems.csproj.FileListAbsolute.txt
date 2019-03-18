@@ -14,7 +14,7 @@ C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.FileSystems.dll
 C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.FileSystems.pdb
 C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.FileSystems.dll.CodeAnalysisLog.xml
 C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.FileSystems.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.FileSystems\obj\Debug\Microsoft.Owin.FileSystems.csprojAssemblyReference.cache
 C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.FileSystems\obj\Debug\Microsoft.Owin.FileSystems.csproj.CoreCompileInputs.cache
 C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.FileSystems\obj\Debug\Microsoft.Owin.FileSystems.dll
 C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.FileSystems\obj\Debug\Microsoft.Owin.FileSystems.pdb
-C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.FileSystems\obj\Debug\Microsoft.Owin.FileSystems.csprojAssemblyReference.cache

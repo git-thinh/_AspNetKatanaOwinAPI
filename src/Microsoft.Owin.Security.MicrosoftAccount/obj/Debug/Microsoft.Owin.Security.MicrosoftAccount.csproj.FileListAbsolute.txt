@@ -26,10 +26,10 @@ C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.MicrosoftAccount.pd
 C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.MicrosoftAccount.XML
 C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.MicrosoftAccount.dll.CodeAnalysisLog.xml
 C:\_____\_AspNetKatanaOwinAPI\output\Microsoft.Owin.Security.MicrosoftAccount.dll.lastcodeanalysissucceeded
+C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.MicrosoftAccount\obj\Debug\Microsoft.Owin.Security.MicrosoftAccount.csprojAssemblyReference.cache
 C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.MicrosoftAccount\obj\Debug\Microsoft.Owin.Security.MicrosoftAccount.Resources.resources
 C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.MicrosoftAccount\obj\Debug\Microsoft.Owin.Security.MicrosoftAccount.csproj.GenerateResource.cache
 C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.MicrosoftAccount\obj\Debug\Microsoft.Owin.Security.MicrosoftAccount.csproj.CoreCompileInputs.cache
 C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.MicrosoftAccount\obj\Debug\Microsoft.Owin.Security.MicrosoftAccount.csproj.CopyComplete
 C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.MicrosoftAccount\obj\Debug\Microsoft.Owin.Security.MicrosoftAccount.dll
 C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.MicrosoftAccount\obj\Debug\Microsoft.Owin.Security.MicrosoftAccount.pdb
-C:\_____\_AspNetKatanaOwinAPI\src\Microsoft.Owin.Security.MicrosoftAccount\obj\Debug\Microsoft.Owin.Security.MicrosoftAccount.csprojAssemblyReference.cache
